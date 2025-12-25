@@ -1,0 +1,301 @@
+Country,Year,Transport_Type,Annual_Usage,Region,City,Population_Millions,Urbanization_Rate_%,Daily_Routes,Average_Fare_USD,Govt_Subsidy_USD_per_rider,Service_Coverage_%,Covid_Restrictions,Lockdown_Months,Mask_Mandate,Customer_Satisfaction_Score,On_Time_Performance_%,Avg_Commute_Time_min,CO2_Emissions_kg_per_passenger,Green_Initiatives,Fuel_Price_USD_per_Litre,Unemployment_Rate_%,GDP_per_Capita_USD
+USA,2015,Metro,217832,North America,USA City 1,360.8,73.1,414,2.92,2.13,54.0,No,0,No,5.8,95.5,89,0.61,No,1.63,3.8,74127
+USA,2015,Bus,114195,North America,USA City 1,299.4,93.3,421,0.61,0.41,42.5,No,0,No,8.8,95.2,70,1.6,Yes,1.08,4.7,70046
+USA,2015,Train,233383,North America,USA City 1,343.1,85.6,399,2.73,1.05,41.1,No,0,No,7.2,93.4,38,1.19,Yes,1.54,7.9,71437
+USA,2016,Metro,98047,North America,USA City 2,304.1,81.0,96,1.82,2.01,99.3,No,0,No,6.1,92.9,61,1.35,No,1.63,8.4,73696
+USA,2016,Bus,135070,North America,USA City 2,338.3,65.5,404,2.98,0.46,65.7,No,0,No,8.9,78.8,54,0.58,Yes,1.42,8.7,68162
+USA,2016,Train,357223,North America,USA City 2,337.4,65.5,360,0.68,0.65,63.1,No,0,No,7.0,72.3,65,0.52,No,1.64,3.6,66076
+USA,2017,Metro,303624,North America,USA City 3,349.1,62.0,473,1.88,1.83,80.8,No,0,No,7.3,81.7,45,1.03,Yes,0.85,3.0,63773
+USA,2017,Bus,280980,North America,USA City 3,344.7,90.3,357,2.92,1.83,53.1,No,0,No,6.6,75.0,88,1.5,Yes,1.71,4.9,66520
+USA,2017,Train,378306,North America,USA City 3,309.6,81.0,193,1.81,1.64,97.0,No,0,No,7.7,90.2,83,1.1,Yes,0.89,6.5,67405
+USA,2018,Metro,235956,North America,USA City 4,344.5,84.8,318,2.07,1.77,87.2,No,0,No,5.7,80.0,56,0.16,No,0.93,3.1,73848
+USA,2018,Bus,62041,North America,USA City 4,363.2,60.7,419,2.24,1.4,45.4,No,0,No,6.8,98.3,68,1.75,Yes,1.69,9.7,64922
+USA,2018,Train,199953,North America,USA City 4,356.8,93.9,173,1.64,0.7,65.1,No,0,No,9.4,88.6,40,0.22,No,1.11,6.8,66800
+USA,2019,Metro,210878,North America,USA City 5,353.8,89.1,155,2.07,0.93,92.7,No,0,No,6.2,93.9,83,1.92,Yes,1.59,7.4,73144
+USA,2019,Bus,235301,North America,USA City 5,344.0,67.4,207,1.96,0.54,96.7,No,0,No,8.0,73.8,24,0.15,Yes,1.72,8.0,66466
+USA,2019,Train,197722,North America,USA City 5,335.4,66.4,196,2.75,2.28,68.0,No,0,No,6.5,95.0,89,1.42,No,1.62,9.5,71110
+USA,2020,Metro,176801,North America,USA City 1,346.5,66.4,194,0.61,1.5,76.8,Yes,4,Yes,8.5,96.8,23,0.26,No,0.87,7.1,73119
+USA,2020,Bus,131713,North America,USA City 1,362.4,70.6,169,1.2,1.06,50.0,Yes,7,Yes,5.6,84.1,58,1.83,Yes,1.36,9.4,70685
+USA,2020,Train,30489,North America,USA City 1,350.2,78.4,368,2.88,1.21,99.5,Yes,3,Yes,9.4,87.6,54,0.98,No,1.05,3.7,68058
+USA,2021,Metro,108104,North America,USA City 2,302.2,75.1,324,2.73,2.37,53.9,Yes,8,Yes,7.0,92.2,20,0.36,Yes,1.71,9.2,71537
+USA,2021,Bus,54863,North America,USA City 2,336.1,70.2,141,1.64,0.47,96.6,Yes,6,Yes,6.1,75.1,43,0.75,Yes,0.91,5.9,71378
+USA,2021,Train,86490,North America,USA City 2,309.3,81.4,107,2.05,1.51,79.0,Yes,5,Yes,5.3,84.6,76,0.41,Yes,1.01,8.0,73654
+USA,2022,Metro,146136,North America,USA City 3,342.8,64.9,488,1.19,1.31,76.5,Yes,0,Yes,5.8,81.6,89,0.42,No,1.96,5.2,68312
+USA,2022,Bus,47906,North America,USA City 3,322.5,70.2,395,0.97,1.57,70.8,Yes,0,Yes,7.3,74.2,60,1.9,No,2.48,4.0,65844
+USA,2022,Train,32095,North America,USA City 3,319.6,72.8,278,1.66,0.14,53.8,Yes,0,Yes,6.5,80.7,73,0.95,Yes,1.24,3.3,76066
+USA,2023,Metro,190006,North America,USA City 4,343.9,76.0,166,1.38,2.19,50.6,No,0,No,8.7,72.0,65,1.6,No,1.5,8.9,73434
+USA,2023,Bus,383415,North America,USA City 4,320.1,87.5,367,1.96,2.34,53.2,No,0,No,6.9,70.7,79,1.32,Yes,2.37,5.2,67282
+USA,2023,Train,304789,North America,USA City 4,363.0,67.0,328,0.69,1.46,51.2,No,0,No,6.1,73.9,79,1.39,Yes,1.23,3.9,65153
+USA,2024,Metro,256270,North America,USA City 5,363.4,78.0,176,2.94,1.77,86.8,No,0,No,7.8,97.9,76,0.35,Yes,1.36,4.6,70729
+USA,2024,Bus,209694,North America,USA City 5,357.9,80.7,442,2.97,2.31,61.0,No,0,No,8.2,85.9,50,0.54,Yes,2.04,9.9,67343
+USA,2024,Train,260202,North America,USA City 5,306.5,61.6,445,2.25,1.8,43.5,No,0,No,5.8,98.0,43,1.59,Yes,2.01,8.0,69508
+UK,2015,Metro,434537,Europe,UK City 1,69.3,81.3,178,1.84,0.47,98.1,No,0,No,5.8,82.5,55,1.94,Yes,1.16,3.9,48516
+UK,2015,Bus,206505,Europe,UK City 1,69.8,66.0,107,1.27,1.48,93.0,No,0,No,5.2,79.0,49,0.6,No,0.97,5.5,49446
+UK,2015,Train,204990,Europe,UK City 1,64.7,62.3,171,2.53,1.56,95.7,No,0,No,8.3,84.7,43,0.62,Yes,1.42,4.3,44874
+UK,2016,Metro,156292,Europe,UK City 2,60.9,93.2,50,2.21,1.12,99.7,No,0,No,8.0,82.7,49,1.0,Yes,1.51,3.2,44789
+UK,2016,Bus,270141,Europe,UK City 2,71.2,93.8,288,0.91,1.87,50.4,No,0,No,7.1,73.1,26,1.97,Yes,1.27,4.0,43336
+UK,2016,Train,363979,Europe,UK City 2,63.2,88.3,339,2.78,2.34,63.8,No,0,No,8.8,88.6,54,0.61,Yes,1.66,4.9,49686
+UK,2017,Metro,371548,Europe,UK City 3,61.1,70.7,145,2.56,2.32,85.5,No,0,No,8.6,76.3,74,0.87,Yes,1.54,4.3,50939
+UK,2017,Bus,120880,Europe,UK City 3,63.1,63.4,175,2.87,1.18,81.8,No,0,No,7.6,88.0,33,1.79,No,1.07,5.7,50359
+UK,2017,Train,320393,Europe,UK City 3,72.3,83.9,167,2.31,0.37,49.2,No,0,No,8.9,88.9,29,0.11,Yes,1.39,3.9,51083
+UK,2018,Metro,111035,Europe,UK City 4,70.9,75.4,97,2.03,2.46,88.9,No,0,No,5.9,74.4,35,0.18,No,1.49,3.4,43775
+UK,2018,Bus,168915,Europe,UK City 4,68.6,64.3,138,1.55,2.11,53.5,No,0,No,5.5,71.8,73,1.25,No,0.81,8.9,45711
+UK,2018,Train,186869,Europe,UK City 4,60.3,77.3,286,2.83,0.4,53.4,No,0,No,6.2,92.6,89,1.82,Yes,1.6,6.5,46998
+UK,2019,Metro,388940,Europe,UK City 5,64.1,61.2,422,2.67,2.31,72.2,No,0,No,5.3,83.3,63,0.55,No,1.68,9.6,49799
+UK,2019,Bus,480805,Europe,UK City 5,61.7,91.8,434,0.61,2.19,75.6,No,0,No,7.4,71.7,64,0.99,Yes,0.87,6.4,44397
+UK,2019,Train,339794,Europe,UK City 5,69.3,69.1,321,0.57,1.35,74.8,No,0,No,9.2,98.9,75,0.96,No,1.57,3.9,42388
+UK,2020,Metro,194867,Europe,UK City 1,71.7,83.2,238,1.44,1.52,45.5,Yes,6,Yes,5.2,71.7,76,1.0,Yes,1.41,8.2,46649
+UK,2020,Bus,187809,Europe,UK City 1,69.1,70.9,241,2.53,1.06,92.6,Yes,8,Yes,5.5,90.2,40,1.28,Yes,1.08,3.9,49141
+UK,2020,Train,127742,Europe,UK City 1,71.2,78.2,496,2.97,0.23,55.9,Yes,8,Yes,7.0,98.5,87,0.99,Yes,1.15,3.7,47976
+UK,2021,Metro,241073,Europe,UK City 2,66.9,79.1,118,0.88,0.9,47.8,Yes,5,Yes,9.2,76.9,69,0.95,Yes,1.13,5.4,42392
+UK,2021,Bus,95705,Europe,UK City 2,61.3,66.5,327,1.99,2.03,93.3,Yes,10,Yes,6.4,74.1,52,1.0,Yes,1.63,3.8,45338
+UK,2021,Train,111696,Europe,UK City 2,68.9,93.9,398,1.45,0.11,97.3,Yes,10,Yes,7.3,73.5,26,1.22,Yes,1.21,6.8,50785
+UK,2022,Metro,319437,Europe,UK City 3,73.2,87.1,296,2.92,0.9,91.7,Yes,0,Yes,5.2,78.8,89,1.12,Yes,1.95,6.3,43228
+UK,2022,Bus,137279,Europe,UK City 3,63.7,92.9,125,2.61,1.06,88.6,Yes,0,Yes,5.7,72.9,34,1.72,No,2.14,9.4,44023
+UK,2022,Train,271536,Europe,UK City 3,61.5,91.3,203,2.6,1.39,79.3,Yes,0,Yes,9.4,90.1,51,0.19,No,1.7,7.0,48304
+UK,2023,Metro,327678,Europe,UK City 4,66.7,80.9,193,1.67,2.31,73.1,No,0,No,9.3,71.8,39,1.68,Yes,1.54,8.0,44571
+UK,2023,Bus,154334,Europe,UK City 4,63.0,92.3,484,1.54,0.93,45.2,No,0,No,5.0,84.8,34,1.7,Yes,2.46,6.4,45523
+UK,2023,Train,124598,Europe,UK City 4,65.2,63.1,135,1.18,0.93,64.5,No,0,No,9.3,98.9,67,0.64,No,1.4,4.0,47137
+UK,2024,Metro,253456,Europe,UK City 5,70.9,66.9,234,0.64,1.87,62.4,No,0,No,7.9,93.6,40,0.98,No,1.65,7.9,50248
+UK,2024,Bus,405542,Europe,UK City 5,71.3,61.6,334,2.66,1.19,55.6,No,0,No,8.9,87.8,61,0.93,No,2.25,6.5,43542
+UK,2024,Train,280437,Europe,UK City 5,71.0,71.4,269,2.53,0.64,83.4,No,0,No,7.0,78.9,45,0.52,Yes,1.62,9.0,44792
+Germany,2015,Metro,115071,Europe,Germany City 1,75.6,73.6,118,3.0,1.19,69.8,No,0,No,7.3,88.1,33,0.85,Yes,1.58,9.7,50772
+Germany,2015,Bus,508851,Europe,Germany City 1,78.3,69.5,96,2.99,0.44,44.9,No,0,No,7.2,85.3,76,0.18,Yes,1.4,4.8,53463
+Germany,2015,Train,498955,Europe,Germany City 1,91.1,89.0,143,1.89,0.52,53.2,No,0,No,8.0,82.4,56,0.63,Yes,1.66,9.7,55558
+Germany,2016,Metro,94272,Europe,Germany City 2,86.2,72.5,287,2.42,1.3,81.0,No,0,No,5.6,73.8,77,1.65,No,1.46,6.4,49137
+Germany,2016,Bus,293007,Europe,Germany City 2,80.6,69.8,495,2.86,1.11,44.6,No,0,No,5.1,95.7,40,0.64,No,1.38,5.0,48855
+Germany,2016,Train,206456,Europe,Germany City 2,89.9,79.0,253,2.62,2.3,91.1,No,0,No,6.4,83.0,88,1.65,Yes,1.62,7.5,46877
+Germany,2017,Metro,387211,Europe,Germany City 3,79.6,64.9,449,1.12,0.97,69.7,No,0,No,8.2,75.6,22,1.11,No,1.47,8.8,55555
+Germany,2017,Bus,296975,Europe,Germany City 3,77.1,88.1,267,1.63,1.49,68.8,No,0,No,5.9,80.7,56,1.77,Yes,0.97,4.8,47540
+Germany,2017,Train,467377,Europe,Germany City 3,90.5,62.6,481,0.82,1.62,75.5,No,0,No,8.0,82.0,68,1.19,Yes,0.92,4.6,46903
+Germany,2018,Metro,229770,Europe,Germany City 4,89.6,94.5,390,2.89,0.13,89.5,No,0,No,9.4,94.0,38,0.16,Yes,1.17,3.6,54590
+Germany,2018,Bus,418039,Europe,Germany City 4,78.3,87.0,88,2.02,1.69,60.9,No,0,No,5.4,91.3,31,1.38,No,0.92,5.8,47492
+Germany,2018,Train,281504,Europe,Germany City 4,88.6,67.0,149,1.07,0.53,80.7,No,0,No,8.0,92.3,80,0.19,Yes,1.44,6.5,56537
+Germany,2019,Metro,324281,Europe,Germany City 5,79.9,60.2,338,2.18,2.41,73.9,No,0,No,7.0,70.3,60,0.96,No,0.89,4.7,53197
+Germany,2019,Bus,155776,Europe,Germany City 5,75.4,88.5,303,2.05,0.46,56.0,No,0,No,8.9,82.1,52,1.87,No,1.54,4.4,52751
+Germany,2019,Train,165345,Europe,Germany City 5,82.1,84.7,271,1.4,1.1,92.7,No,0,No,5.8,84.0,69,0.41,Yes,1.64,6.7,55851
+Germany,2020,Metro,160237,Europe,Germany City 1,75.3,85.5,406,0.78,0.3,87.8,Yes,3,Yes,8.1,70.6,87,0.84,Yes,0.86,7.9,47366
+Germany,2020,Bus,209994,Europe,Germany City 1,83.8,87.0,72,2.18,2.49,79.5,Yes,10,Yes,8.8,77.5,52,1.49,No,1.34,9.0,49648
+Germany,2020,Train,44962,Europe,Germany City 1,75.2,62.6,299,1.8,1.31,91.0,Yes,9,Yes,9.3,92.0,43,1.78,Yes,0.83,4.3,52022
+Germany,2021,Metro,212561,Europe,Germany City 2,84.3,72.5,59,2.43,1.53,92.0,Yes,9,Yes,8.1,74.0,80,1.37,No,1.67,4.0,54904
+Germany,2021,Bus,168026,Europe,Germany City 2,86.9,64.1,295,1.8,0.26,82.5,Yes,3,Yes,7.2,85.5,80,0.59,No,1.33,4.0,55481
+Germany,2021,Train,150290,Europe,Germany City 2,80.6,90.2,374,2.63,1.9,90.2,Yes,2,Yes,7.8,76.2,47,1.38,Yes,1.78,3.2,49393
+Germany,2022,Metro,260615,Europe,Germany City 3,76.2,81.8,149,1.88,0.6,81.8,Yes,0,Yes,8.9,70.4,77,0.66,Yes,1.72,7.5,51092
+Germany,2022,Bus,57249,Europe,Germany City 3,81.1,71.6,339,1.9,2.26,80.8,Yes,0,Yes,7.6,77.0,62,1.47,No,1.97,6.7,53788
+Germany,2022,Train,172845,Europe,Germany City 3,75.7,62.2,229,2.69,0.59,77.1,Yes,0,Yes,5.1,98.3,60,1.91,No,2.05,9.1,53067
+Germany,2023,Metro,373305,Europe,Germany City 4,85.3,70.9,272,1.51,0.56,85.2,No,0,No,9.2,93.2,58,1.47,Yes,2.18,7.8,49206
+Germany,2023,Bus,301095,Europe,Germany City 4,84.8,71.4,443,0.84,0.19,49.5,No,0,No,8.1,97.8,68,1.74,Yes,1.7,6.7,56387
+Germany,2023,Train,247812,Europe,Germany City 4,86.6,85.5,299,0.57,1.23,92.9,No,0,No,8.0,84.1,36,0.1,Yes,1.56,8.2,51980
+Germany,2024,Metro,393916,Europe,Germany City 5,88.3,82.3,196,2.39,1.46,92.3,No,0,No,6.0,73.2,89,1.46,No,2.14,10.0,53805
+Germany,2024,Bus,148828,Europe,Germany City 5,82.2,91.1,491,2.05,0.26,41.8,No,0,No,8.0,85.9,89,1.68,No,1.26,7.0,50013
+Germany,2024,Train,99080,Europe,Germany City 5,83.4,76.5,145,2.26,1.96,89.5,No,0,No,6.8,83.2,84,0.18,No,2.35,9.9,55760
+India,2015,Metro,185082,Asia,India City 1,1373.0,64.2,306,1.03,1.19,47.7,No,0,No,7.9,94.5,24,1.76,Yes,1.18,6.6,2461
+India,2015,Bus,68733,Asia,India City 1,1404.5,85.0,374,0.84,1.36,60.1,No,0,No,5.5,72.8,21,0.59,Yes,1.73,9.9,2199
+India,2015,Train,284920,Asia,India City 1,1257.5,86.6,53,0.54,1.16,84.6,No,0,No,8.0,84.2,41,1.36,No,1.77,6.2,2559
+India,2016,Metro,302354,Asia,India City 2,1299.6,79.6,65,1.38,1.06,49.6,No,0,No,9.5,74.4,76,1.62,Yes,0.9,4.6,2617
+India,2016,Bus,497734,Asia,India City 2,1505.5,87.0,329,1.97,1.44,89.1,No,0,No,5.2,79.4,85,1.36,Yes,1.71,8.8,2521
+India,2016,Train,355811,Asia,India City 2,1337.7,77.3,385,1.48,0.47,89.9,No,0,No,9.4,91.4,35,0.28,Yes,0.83,3.1,2249
+India,2017,Metro,437352,Asia,India City 3,1518.4,78.3,296,1.59,0.54,70.4,No,0,No,6.8,83.8,70,1.23,No,1.73,9.0,2333
+India,2017,Bus,349404,Asia,India City 3,1528.4,75.0,307,2.76,2.17,40.4,No,0,No,8.9,80.9,58,1.14,No,1.61,7.0,2515
+India,2017,Train,445313,Asia,India City 3,1446.2,60.9,433,1.37,2.37,57.2,No,0,No,8.5,81.4,59,1.81,Yes,1.3,4.6,2383
+India,2018,Metro,52197,Asia,India City 4,1478.3,63.8,209,1.78,1.0,77.0,No,0,No,7.6,83.3,57,0.87,Yes,0.95,7.1,2488
+India,2018,Bus,243590,Asia,India City 4,1353.7,61.1,389,2.46,0.75,98.9,No,0,No,8.3,92.8,79,0.71,No,1.09,8.9,2347
+India,2018,Train,268847,Asia,India City 4,1452.5,82.3,201,1.49,1.65,77.9,No,0,No,9.0,95.9,78,1.52,No,1.25,3.1,2458
+India,2019,Metro,284178,Asia,India City 5,1342.8,71.0,445,2.06,1.08,55.6,No,0,No,6.8,97.7,29,0.88,Yes,0.91,5.8,2210
+India,2019,Bus,368179,Asia,India City 5,1384.3,77.8,227,2.66,0.16,78.0,No,0,No,6.5,92.8,83,1.33,Yes,1.64,9.5,2478
+India,2019,Train,279250,Asia,India City 5,1532.3,91.8,212,2.87,0.47,72.4,No,0,No,8.0,79.1,82,1.33,Yes,1.48,8.9,2405
+India,2020,Metro,273333,Asia,India City 1,1277.1,68.7,429,0.87,1.82,86.8,Yes,10,Yes,8.6,90.0,68,1.79,No,1.66,5.8,2209
+India,2020,Bus,173453,Asia,India City 1,1366.6,74.4,82,2.82,1.68,46.4,Yes,9,Yes,8.4,82.7,83,1.24,Yes,1.51,6.2,2556
+India,2020,Train,92616,Asia,India City 1,1353.1,86.4,466,1.73,0.17,85.7,Yes,6,Yes,8.6,77.4,51,1.05,Yes,1.11,4.6,2257
+India,2021,Metro,131116,Asia,India City 2,1356.0,68.0,494,1.15,0.63,72.5,Yes,3,Yes,7.0,94.4,26,0.36,No,1.09,8.7,2481
+India,2021,Bus,282063,Asia,India City 2,1372.9,62.7,228,1.65,0.65,97.8,Yes,5,Yes,8.7,71.1,40,0.32,No,0.97,7.3,2290
+India,2021,Train,104593,Asia,India City 2,1311.3,70.1,476,2.95,1.71,60.5,Yes,10,Yes,5.5,96.2,39,0.39,Yes,1.1,4.7,2216
+India,2022,Metro,18114,Asia,India City 3,1308.9,65.6,150,1.73,0.15,78.0,Yes,0,Yes,7.5,83.4,45,0.43,No,2.21,6.1,2372
+India,2022,Bus,113329,Asia,India City 3,1333.3,92.5,317,1.32,0.35,95.9,Yes,0,Yes,5.0,88.5,87,1.31,Yes,2.31,5.3,2366
+India,2022,Train,138094,Asia,India City 3,1487.8,88.3,372,2.08,2.02,46.2,Yes,0,Yes,6.5,89.1,34,1.51,Yes,1.4,7.6,2600
+India,2023,Metro,391563,Asia,India City 4,1473.8,82.2,114,1.1,0.53,96.2,No,0,No,6.6,96.0,33,1.11,Yes,1.27,8.9,2398
+India,2023,Bus,397468,Asia,India City 4,1327.7,90.5,466,0.69,1.67,81.3,No,0,No,6.8,88.5,46,1.68,No,1.57,9.0,2531
+India,2023,Train,425681,Asia,India City 4,1295.8,88.1,217,0.82,0.67,44.1,No,0,No,8.1,87.8,59,1.98,Yes,2.28,5.1,2248
+India,2024,Metro,240527,Asia,India City 5,1268.8,66.5,379,0.82,0.34,58.1,No,0,No,6.7,71.9,77,1.66,No,1.41,4.9,2494
+India,2024,Bus,354929,Asia,India City 5,1449.7,91.2,92,0.88,0.68,82.5,No,0,No,7.0,85.0,47,1.42,No,1.83,5.9,2458
+India,2024,Train,454531,Asia,India City 5,1500.7,78.9,93,0.85,1.83,44.0,No,0,No,6.1,74.4,45,1.11,No,1.52,5.8,2299
+Japan,2015,Metro,272670,Asia,Japan City 1,137.1,88.3,334,2.1,2.15,74.9,No,0,No,6.7,91.4,82,0.95,No,1.12,4.4,39743
+Japan,2015,Bus,409561,Asia,Japan City 1,114.8,91.4,446,0.95,2.09,60.8,No,0,No,6.0,84.9,85,0.26,No,1.67,5.7,41447
+Japan,2015,Train,448702,Asia,Japan City 1,121.6,71.1,61,1.36,1.05,77.3,No,0,No,5.3,89.7,44,0.86,Yes,1.35,9.8,40018
+Japan,2016,Metro,138912,Asia,Japan City 2,114.0,63.9,144,2.74,1.7,42.7,No,0,No,7.7,71.2,22,1.83,Yes,1.07,8.6,39878
+Japan,2016,Bus,398282,Asia,Japan City 2,120.3,68.0,351,1.68,0.59,92.3,No,0,No,8.0,72.5,63,1.64,No,1.17,4.0,38676
+Japan,2016,Train,58339,Asia,Japan City 2,129.3,74.9,435,2.17,0.8,98.4,No,0,No,7.8,90.8,61,0.51,Yes,0.95,5.4,45671
+Japan,2017,Metro,395363,Asia,Japan City 3,123.7,88.6,302,0.93,2.25,98.1,No,0,No,7.1,72.1,25,0.99,No,1.41,5.2,44146
+Japan,2017,Bus,219536,Asia,Japan City 3,114.2,90.1,291,0.98,0.13,85.0,No,0,No,6.7,72.1,58,1.65,No,1.56,3.6,43370
+Japan,2017,Train,76821,Asia,Japan City 3,123.9,60.2,84,0.6,0.31,47.8,No,0,No,8.9,70.4,71,0.23,Yes,1.52,4.0,41676
+Japan,2018,Metro,257509,Asia,Japan City 4,117.1,77.9,264,0.92,0.6,85.5,No,0,No,7.3,97.7,42,0.84,No,1.22,6.6,45705
+Japan,2018,Bus,243362,Asia,Japan City 4,122.4,74.6,386,1.2,0.16,41.5,No,0,No,7.2,91.4,69,1.72,Yes,1.35,7.6,42336
+Japan,2018,Train,387300,Asia,Japan City 4,118.5,67.8,139,0.94,0.54,41.3,No,0,No,5.1,80.2,62,0.87,Yes,0.99,7.8,44179
+Japan,2019,Metro,401489,Asia,Japan City 5,133.1,64.2,313,0.72,1.5,59.4,No,0,No,6.5,78.6,38,0.25,Yes,0.81,6.8,44509
+Japan,2019,Bus,96867,Asia,Japan City 5,131.5,71.8,142,0.8,1.11,69.3,No,0,No,6.7,80.1,88,1.13,Yes,0.96,9.7,41667
+Japan,2019,Train,95023,Asia,Japan City 5,127.5,93.0,459,1.65,2.24,86.2,No,0,No,6.8,92.5,70,1.74,No,1.66,5.8,41193
+Japan,2020,Metro,273457,Asia,Japan City 1,123.5,71.3,139,1.02,2.06,81.0,Yes,4,Yes,7.6,89.2,30,1.22,No,0.85,8.5,37926
+Japan,2020,Bus,194889,Asia,Japan City 1,117.4,78.2,467,1.41,0.92,66.8,Yes,10,Yes,7.4,75.4,31,0.53,No,1.57,9.5,44024
+Japan,2020,Train,99064,Asia,Japan City 1,116.6,84.6,164,1.76,0.72,56.4,Yes,5,Yes,7.7,75.0,27,0.83,Yes,1.27,6.8,44258
+Japan,2021,Metro,174307,Asia,Japan City 2,118.2,72.7,154,2.23,1.01,99.8,Yes,9,Yes,8.4,72.9,43,0.96,Yes,1.33,7.2,43023
+Japan,2021,Bus,128085,Asia,Japan City 2,129.8,94.0,440,0.6,1.52,65.6,Yes,6,Yes,8.7,89.1,60,1.2,No,1.1,7.8,37876
+Japan,2021,Train,148032,Asia,Japan City 2,135.8,93.7,245,2.5,0.74,67.1,Yes,8,Yes,8.2,92.2,55,1.54,Yes,1.54,5.4,38734
+Japan,2022,Metro,262751,Asia,Japan City 3,136.5,68.8,363,2.07,1.6,49.8,Yes,0,Yes,9.3,77.7,74,0.29,No,2.26,7.0,38737
+Japan,2022,Bus,106220,Asia,Japan City 3,114.8,77.4,163,0.7,1.08,87.7,Yes,0,Yes,5.1,70.6,28,1.79,No,2.01,7.7,42272
+Japan,2022,Train,240439,Asia,Japan City 3,135.1,70.5,124,2.68,1.42,81.6,Yes,0,Yes,5.9,72.4,66,0.12,No,2.37,3.5,40593
+Japan,2023,Metro,288714,Asia,Japan City 4,131.4,70.0,462,2.8,1.15,53.2,No,0,No,5.0,98.1,34,0.8,No,2.02,3.0,38286
+Japan,2023,Bus,69932,Asia,Japan City 4,131.4,61.3,425,0.65,0.81,44.9,No,0,No,7.9,78.6,67,0.15,Yes,2.11,5.5,42236
+Japan,2023,Train,398265,Asia,Japan City 4,125.8,81.3,469,1.19,2.38,80.8,No,0,No,9.0,92.3,61,0.85,No,2.34,5.3,39661
+Japan,2024,Metro,240474,Asia,Japan City 5,118.9,77.6,266,2.52,1.93,79.3,No,0,No,6.1,88.1,79,1.1,Yes,1.24,8.0,42039
+Japan,2024,Bus,579527,Asia,Japan City 5,125.7,61.8,326,2.37,0.44,56.4,No,0,No,9.2,81.1,89,1.07,No,2.07,6.2,38097
+Japan,2024,Train,296858,Asia,Japan City 5,137.9,69.8,298,0.96,2.18,97.1,No,0,No,5.3,76.0,31,0.41,Yes,1.85,9.6,43425
+Australia,2015,Metro,477239,Oceania,Australia City 1,28.4,91.8,213,1.02,1.27,49.1,No,0,No,9.2,73.5,21,1.33,No,1.69,5.1,63988
+Australia,2015,Bus,274013,Oceania,Australia City 1,27.6,68.4,443,1.43,2.25,65.9,No,0,No,6.6,87.8,26,0.19,No,1.56,3.6,65757
+Australia,2015,Train,430948,Oceania,Australia City 1,25.3,65.1,406,1.71,2.02,96.6,No,0,No,5.5,92.5,22,1.55,Yes,1.6,5.9,57717
+Australia,2016,Metro,271330,Oceania,Australia City 2,24.6,77.1,457,2.05,1.12,65.2,No,0,No,7.2,88.7,22,1.9,Yes,1.6,9.3,66821
+Australia,2016,Bus,406674,Oceania,Australia City 2,24.2,94.5,241,1.42,0.15,78.3,No,0,No,6.2,85.4,46,0.75,No,1.26,4.7,56939
+Australia,2016,Train,180563,Oceania,Australia City 2,25.5,68.5,276,1.66,0.74,63.9,No,0,No,6.3,71.2,59,1.08,Yes,1.37,3.5,59083
+Australia,2017,Metro,90901,Oceania,Australia City 3,25.0,83.5,226,2.37,1.4,56.5,No,0,No,6.4,98.1,52,0.82,Yes,1.56,4.7,59146
+Australia,2017,Bus,479024,Oceania,Australia City 3,26.3,86.7,148,0.59,1.62,99.0,No,0,No,8.6,93.2,20,0.11,Yes,1.42,8.3,57275
+Australia,2017,Train,134247,Oceania,Australia City 3,28.4,68.3,85,1.13,0.72,64.6,No,0,No,7.4,78.5,27,0.83,Yes,1.45,7.5,63056
+Australia,2018,Metro,440677,Oceania,Australia City 4,24.6,85.5,145,2.28,0.43,93.6,No,0,No,6.4,98.4,51,1.6,No,1.18,4.1,61175
+Australia,2018,Bus,109053,Oceania,Australia City 4,25.1,72.9,201,2.74,2.1,53.8,No,0,No,7.7,87.5,67,1.23,Yes,1.76,6.3,66894
+Australia,2018,Train,228195,Oceania,Australia City 4,24.0,82.1,200,1.78,2.46,52.8,No,0,No,8.2,86.9,23,0.29,Yes,1.56,7.5,67419
+Australia,2019,Metro,231496,Oceania,Australia City 5,26.8,82.2,239,1.83,1.36,41.9,No,0,No,6.2,91.7,89,1.71,Yes,1.23,6.7,65416
+Australia,2019,Bus,308169,Oceania,Australia City 5,28.5,78.8,273,0.77,0.51,79.1,No,0,No,6.9,93.5,38,1.11,Yes,1.36,9.6,57451
+Australia,2019,Train,435851,Oceania,Australia City 5,28.0,63.2,86,1.62,0.75,62.1,No,0,No,5.5,89.0,51,1.7,Yes,1.63,5.3,67702
+Australia,2020,Metro,121808,Oceania,Australia City 1,28.4,89.2,317,1.83,0.14,91.9,Yes,9,Yes,5.8,73.7,28,1.2,Yes,1.3,6.9,57530
+Australia,2020,Bus,178302,Oceania,Australia City 1,25.6,71.2,418,1.11,2.29,68.4,Yes,4,Yes,8.1,79.8,31,1.16,Yes,0.92,3.6,68436
+Australia,2020,Train,175993,Oceania,Australia City 1,25.7,66.5,232,1.17,0.38,98.1,Yes,9,Yes,5.8,96.9,30,0.3,Yes,1.7,3.9,61089
+Australia,2021,Metro,334616,Oceania,Australia City 2,26.3,61.4,62,1.44,1.48,51.1,Yes,8,Yes,7.4,76.5,65,0.42,No,1.05,4.7,66722
+Australia,2021,Bus,229621,Oceania,Australia City 2,28.0,80.7,328,0.55,0.76,92.1,Yes,4,Yes,8.2,80.8,35,1.95,Yes,0.96,3.3,57768
+Australia,2021,Train,133982,Oceania,Australia City 2,23.8,83.7,266,1.31,1.43,86.6,Yes,4,Yes,5.5,82.5,20,0.53,No,0.94,4.5,61340
+Australia,2022,Metro,114992,Oceania,Australia City 3,23.6,60.6,404,1.03,1.66,86.3,Yes,0,Yes,7.6,82.7,82,1.96,Yes,2.16,8.8,63465
+Australia,2022,Bus,87829,Oceania,Australia City 3,25.0,77.9,410,1.32,2.09,90.7,Yes,0,Yes,6.2,87.8,40,1.11,Yes,1.29,7.9,60168
+Australia,2022,Train,152907,Oceania,Australia City 3,23.9,67.9,335,0.8,0.6,85.7,Yes,0,Yes,9.3,97.3,49,0.36,No,1.87,3.6,64895
+Australia,2023,Metro,418311,Oceania,Australia City 4,28.5,82.6,322,2.73,0.13,77.6,No,0,No,7.2,77.0,32,0.29,Yes,1.5,5.5,58174
+Australia,2023,Bus,47861,Oceania,Australia City 4,28.5,66.1,418,1.98,0.43,47.9,No,0,No,8.6,73.5,53,0.5,No,1.28,3.5,63620
+Australia,2023,Train,331874,Oceania,Australia City 4,27.9,84.2,111,2.2,2.26,42.0,No,0,No,7.5,75.7,23,1.86,No,1.51,7.7,63740
+Australia,2024,Metro,256017,Oceania,Australia City 5,25.8,73.5,133,2.47,2.2,95.3,No,0,No,5.2,95.7,47,0.89,Yes,1.33,5.5,57132
+Australia,2024,Bus,449261,Oceania,Australia City 5,27.9,92.8,417,1.75,1.53,77.0,No,0,No,7.8,88.7,78,0.85,No,2.05,7.2,69216
+Australia,2024,Train,319112,Oceania,Australia City 5,23.7,64.8,266,0.72,1.54,87.8,No,0,No,9.3,78.3,46,0.7,No,2.46,3.8,66951
+Brazil,2015,Metro,329361,South America,Brazil City 1,201.2,71.9,391,1.84,1.7,68.9,No,0,No,7.7,93.7,88,0.38,Yes,1.6,5.3,9687
+Brazil,2015,Bus,479390,South America,Brazil City 1,231.0,64.0,446,1.97,0.52,47.0,No,0,No,8.7,95.0,44,1.03,Yes,1.69,5.8,8683
+Brazil,2015,Train,65836,South America,Brazil City 1,217.3,92.4,236,2.36,2.29,47.5,No,0,No,9.0,94.5,22,0.35,Yes,1.35,9.1,9094
+Brazil,2016,Metro,372892,South America,Brazil City 2,193.7,90.7,68,1.58,1.11,81.1,No,0,No,6.0,96.6,87,1.69,No,1.26,9.3,8936
+Brazil,2016,Bus,489973,South America,Brazil City 2,204.5,69.0,226,0.82,1.02,65.8,No,0,No,6.0,77.3,44,0.8,No,0.84,5.4,8350
+Brazil,2016,Train,57013,South America,Brazil City 2,208.2,83.1,149,1.21,1.35,52.0,No,0,No,7.7,91.9,39,0.81,No,0.91,4.1,9417
+Brazil,2017,Metro,440366,South America,Brazil City 3,223.8,88.6,445,1.41,0.21,69.5,No,0,No,6.8,83.4,53,1.0,No,0.91,7.9,9084
+Brazil,2017,Bus,460711,South America,Brazil City 3,217.4,79.4,494,2.11,0.5,43.9,No,0,No,8.8,94.4,45,0.94,Yes,1.54,3.1,8910
+Brazil,2017,Train,435141,South America,Brazil City 3,219.2,78.5,282,1.93,1.87,74.9,No,0,No,9.1,91.1,24,1.99,Yes,1.22,8.5,8318
+Brazil,2018,Metro,440544,South America,Brazil City 4,208.6,68.5,452,1.39,0.3,56.1,No,0,No,6.6,92.5,80,1.14,No,1.69,5.9,9396
+Brazil,2018,Bus,177988,South America,Brazil City 4,202.1,63.3,125,2.97,1.55,87.9,No,0,No,6.1,89.0,28,0.27,Yes,1.18,6.2,9168
+Brazil,2018,Train,200898,South America,Brazil City 4,201.8,91.4,314,2.01,0.69,58.6,No,0,No,8.5,75.1,69,1.25,No,1.35,9.3,9738
+Brazil,2019,Metro,155936,South America,Brazil City 5,201.1,91.5,333,1.09,1.03,67.3,No,0,No,6.2,85.8,25,0.39,Yes,1.76,10.0,9454
+Brazil,2019,Bus,146358,South America,Brazil City 5,195.9,82.2,255,0.75,0.79,40.7,No,0,No,8.7,98.6,79,0.16,Yes,1.38,8.4,8814
+Brazil,2019,Train,76391,South America,Brazil City 5,201.9,71.9,272,0.88,0.95,44.3,No,0,No,6.9,97.2,63,1.94,No,1.13,4.4,8789
+Brazil,2020,Metro,100367,South America,Brazil City 1,233.2,72.2,433,1.11,1.83,63.5,Yes,9,Yes,8.0,71.3,30,1.57,No,1.33,7.9,9846
+Brazil,2020,Bus,103324,South America,Brazil City 1,215.4,85.4,101,0.9,0.81,68.8,Yes,7,Yes,5.4,74.8,85,1.96,Yes,1.34,3.1,8737
+Brazil,2020,Train,130471,South America,Brazil City 1,200.6,91.4,388,0.97,1.46,76.0,Yes,7,Yes,7.8,73.8,66,1.01,No,1.46,3.1,8319
+Brazil,2021,Metro,203815,South America,Brazil City 2,205.8,91.0,416,1.21,1.24,57.5,Yes,2,Yes,7.0,91.1,22,1.11,Yes,1.46,3.1,9306
+Brazil,2021,Bus,204765,South America,Brazil City 2,215.8,87.3,193,0.93,1.69,81.7,Yes,3,Yes,7.6,93.7,49,0.42,No,0.81,3.1,8122
+Brazil,2021,Train,138159,South America,Brazil City 2,199.6,82.5,422,2.74,2.35,91.6,Yes,2,Yes,5.8,76.2,40,0.57,No,0.92,7.8,9846
+Brazil,2022,Metro,337056,South America,Brazil City 3,232.8,62.9,118,0.7,1.86,86.8,Yes,0,Yes,8.3,84.7,47,1.69,No,2.42,4.9,8259
+Brazil,2022,Bus,68752,South America,Brazil City 3,206.9,65.7,148,1.81,0.62,42.4,Yes,0,Yes,8.9,94.4,81,0.78,No,1.77,4.4,9329
+Brazil,2022,Train,31523,South America,Brazil City 3,213.0,91.4,445,1.53,0.17,68.8,Yes,0,Yes,6.0,91.3,52,1.67,Yes,2.17,8.3,8642
+Brazil,2023,Metro,433086,South America,Brazil City 4,221.7,81.2,74,2.96,0.73,46.3,No,0,No,5.4,85.7,54,1.45,Yes,1.65,8.7,8877
+Brazil,2023,Bus,360774,South America,Brazil City 4,218.3,60.3,485,0.78,1.53,54.5,No,0,No,5.1,87.1,71,0.44,No,2.4,6.1,9310
+Brazil,2023,Train,352020,South America,Brazil City 4,212.2,63.6,428,1.49,0.22,99.2,No,0,No,7.9,84.7,53,1.06,Yes,1.49,5.0,9794
+Brazil,2024,Metro,150672,South America,Brazil City 5,193.1,83.2,102,2.92,1.29,48.5,No,0,No,7.7,78.6,60,1.39,No,1.67,6.1,9255
+Brazil,2024,Bus,234906,South America,Brazil City 5,198.7,60.2,200,2.66,1.53,69.9,No,0,No,7.5,86.4,70,0.55,Yes,1.9,5.4,8576
+Brazil,2024,Train,98051,South America,Brazil City 5,225.5,65.6,193,2.54,0.9,77.1,No,0,No,6.0,90.0,66,1.68,No,2.13,8.0,8575
+Canada,2015,Metro,257837,North America,Canada City 1,35.2,79.2,106,1.14,1.95,82.1,No,0,No,6.8,95.3,77,1.14,No,1.14,8.4,58639
+Canada,2015,Bus,464171,North America,Canada City 1,35.7,84.2,88,0.93,0.36,73.6,No,0,No,7.7,88.5,76,0.41,No,1.0,4.2,57877
+Canada,2015,Train,152529,North America,Canada City 1,38.3,82.8,158,2.17,0.28,40.6,No,0,No,7.2,92.1,42,1.21,Yes,1.68,6.8,56034
+Canada,2016,Metro,78787,North America,Canada City 2,38.0,67.8,230,2.82,1.85,59.6,No,0,No,9.4,74.6,67,2.0,No,1.06,9.1,59878
+Canada,2016,Bus,138374,North America,Canada City 2,41.6,84.9,91,1.89,1.29,71.1,No,0,No,5.6,83.4,41,0.39,Yes,1.28,7.5,57698
+Canada,2016,Train,207890,North America,Canada City 2,37.8,68.3,235,1.93,1.75,45.3,No,0,No,8.1,70.3,36,1.65,Yes,1.08,7.1,54259
+Canada,2017,Metro,415090,North America,Canada City 3,34.8,71.4,472,1.2,1.14,61.0,No,0,No,6.8,77.2,88,0.49,No,1.1,7.3,60861
+Canada,2017,Bus,70906,North America,Canada City 3,40.8,86.1,447,2.42,0.69,42.0,No,0,No,6.9,91.1,30,1.59,No,0.83,5.7,54923
+Canada,2017,Train,343210,North America,Canada City 3,36.4,82.7,272,0.97,2.07,44.7,No,0,No,8.2,98.8,34,1.5,No,1.5,3.9,55036
+Canada,2018,Metro,462861,North America,Canada City 4,40.0,89.7,171,1.31,2.02,63.8,No,0,No,8.1,72.9,54,0.67,Yes,1.62,4.6,62271
+Canada,2018,Bus,329772,North America,Canada City 4,39.1,83.0,182,1.56,1.77,48.0,No,0,No,9.5,81.6,52,0.72,Yes,0.82,8.9,62252
+Canada,2018,Train,427805,North America,Canada City 4,39.6,79.9,212,1.77,0.75,74.1,No,0,No,5.6,93.2,35,1.61,Yes,1.42,5.7,62447
+Canada,2019,Metro,106727,North America,Canada City 5,36.0,63.3,264,1.11,1.52,81.4,No,0,No,5.5,75.9,53,0.98,Yes,1.6,4.1,56841
+Canada,2019,Bus,514921,North America,Canada City 5,41.1,72.9,270,0.79,0.97,88.0,No,0,No,8.3,86.1,85,1.49,Yes,1.68,5.0,58557
+Canada,2019,Train,230419,North America,Canada City 5,35.8,69.3,284,2.03,0.32,52.0,No,0,No,7.6,91.3,59,0.38,No,1.44,9.0,53361
+Canada,2020,Metro,255708,North America,Canada City 1,38.2,68.5,380,1.22,2.3,50.0,Yes,9,Yes,6.2,87.9,47,1.72,Yes,1.7,6.1,62608
+Canada,2020,Bus,116966,North America,Canada City 1,40.7,94.1,195,1.95,0.43,46.3,Yes,5,Yes,5.4,75.5,66,1.45,No,1.16,8.7,56724
+Canada,2020,Train,213496,North America,Canada City 1,37.0,73.8,288,0.89,2.38,78.2,Yes,2,Yes,5.4,80.3,58,1.82,No,1.39,5.4,61151
+Canada,2021,Metro,65082,North America,Canada City 2,41.6,91.2,125,1.7,1.17,82.4,Yes,7,Yes,9.0,92.7,89,0.35,No,1.01,9.8,59375
+Canada,2021,Bus,228464,North America,Canada City 2,38.4,82.1,58,1.83,0.54,41.9,Yes,4,Yes,5.9,86.1,39,1.23,No,1.66,9.5,54764
+Canada,2021,Train,160558,North America,Canada City 2,39.7,87.8,123,0.63,1.4,96.2,Yes,5,Yes,6.5,70.2,20,1.24,No,1.28,4.2,54719
+Canada,2022,Metro,31108,North America,Canada City 3,38.0,77.6,491,1.34,2.2,43.1,Yes,0,Yes,6.0,92.1,82,0.77,Yes,1.35,9.5,61401
+Canada,2022,Bus,209207,North America,Canada City 3,35.3,80.2,450,0.84,1.86,72.5,Yes,0,Yes,6.6,71.0,86,0.97,Yes,2.16,6.4,55157
+Canada,2022,Train,63159,North America,Canada City 3,39.8,77.2,302,0.66,2.04,82.5,Yes,0,Yes,5.3,91.6,23,0.17,Yes,1.64,8.1,62395
+Canada,2023,Metro,209867,North America,Canada City 4,36.8,66.8,279,2.97,1.68,92.3,No,0,No,7.3,75.9,77,1.52,Yes,1.65,7.2,57699
+Canada,2023,Bus,274036,North America,Canada City 4,37.6,85.3,56,1.31,1.76,82.8,No,0,No,5.3,97.8,44,1.14,No,1.79,9.6,57147
+Canada,2023,Train,283715,North America,Canada City 4,39.6,69.8,223,2.52,2.14,88.1,No,0,No,8.6,80.7,66,0.21,Yes,2.08,8.9,62062
+Canada,2024,Metro,100407,North America,Canada City 5,41.5,60.9,190,1.14,0.7,60.4,No,0,No,6.1,79.5,57,1.39,No,2.01,6.9,56534
+Canada,2024,Bus,128199,North America,Canada City 5,36.0,82.6,217,2.2,1.27,88.9,No,0,No,7.4,74.3,34,0.99,No,2.36,9.6,55052
+Canada,2024,Train,193196,North America,Canada City 5,35.1,66.2,219,2.4,0.63,44.8,No,0,No,9.0,78.9,82,0.17,Yes,2.41,8.1,55332
+France,2015,Metro,338254,Europe,France City 1,61.2,92.9,442,1.99,2.47,93.7,No,0,No,7.9,95.4,40,1.94,No,1.05,4.4,53809
+France,2015,Bus,255765,Europe,France City 1,59.7,93.4,483,1.68,2.37,72.9,No,0,No,7.4,98.9,76,1.9,Yes,0.88,6.8,52305
+France,2015,Train,500161,Europe,France City 1,65.0,92.0,332,1.53,0.19,89.0,No,0,No,6.5,80.7,72,1.07,Yes,1.43,8.4,52879
+France,2016,Metro,258575,Europe,France City 2,60.4,73.0,171,1.37,1.79,67.1,No,0,No,6.5,83.0,65,0.28,No,0.83,7.9,47480
+France,2016,Bus,228864,Europe,France City 2,61.4,60.5,243,2.82,2.32,78.6,No,0,No,8.0,90.9,33,1.53,Yes,1.4,7.3,51111
+France,2016,Train,422598,Europe,France City 2,65.2,92.5,54,2.58,0.53,71.6,No,0,No,9.5,95.7,36,1.03,No,1.06,7.9,46202
+France,2017,Metro,399128,Europe,France City 3,66.9,75.0,78,2.91,1.46,83.9,No,0,No,8.0,87.2,58,0.67,Yes,1.79,3.5,49879
+France,2017,Bus,97550,Europe,France City 3,63.1,93.8,214,0.81,2.3,44.9,No,0,No,7.5,81.4,28,1.03,Yes,1.18,3.0,45225
+France,2017,Train,121919,Europe,France City 3,63.6,93.7,471,2.33,0.18,43.6,No,0,No,8.3,82.0,25,1.09,No,1.1,9.6,53667
+France,2018,Metro,250593,Europe,France City 4,64.3,89.9,388,2.85,1.77,54.8,No,0,No,7.1,90.2,42,1.17,Yes,1.68,4.8,48176
+France,2018,Bus,254577,Europe,France City 4,70.5,70.3,185,0.95,0.81,49.6,No,0,No,5.3,70.1,78,0.94,Yes,1.59,8.7,49286
+France,2018,Train,237688,Europe,France City 4,67.9,73.5,414,0.67,2.32,92.3,No,0,No,7.5,88.0,65,1.25,Yes,1.42,3.3,45162
+France,2019,Metro,319122,Europe,France City 5,68.6,89.8,370,2.35,2.43,53.2,No,0,No,9.3,80.3,57,1.85,No,0.86,7.2,45201
+France,2019,Bus,488176,Europe,France City 5,65.8,71.1,391,1.94,2.37,98.6,No,0,No,5.8,93.0,33,0.79,Yes,1.1,3.4,49141
+France,2019,Train,414464,Europe,France City 5,62.4,65.9,194,2.6,1.24,60.2,No,0,No,8.1,72.7,81,1.48,Yes,1.0,3.8,44780
+France,2020,Metro,197311,Europe,France City 1,65.7,79.5,376,0.85,2.17,50.9,Yes,6,Yes,5.9,87.1,54,1.8,Yes,0.85,9.1,46634
+France,2020,Bus,140007,Europe,France City 1,69.4,92.8,266,2.49,2.13,87.4,Yes,5,Yes,7.4,83.9,38,0.97,Yes,0.86,6.6,51499
+France,2020,Train,106477,Europe,France City 1,61.1,84.4,350,1.0,0.87,79.5,Yes,2,Yes,5.4,88.6,49,0.94,No,1.01,7.8,48911
+France,2021,Metro,95764,Europe,France City 2,68.2,80.0,181,0.91,2.09,69.9,Yes,4,Yes,7.0,71.9,44,1.24,No,1.26,4.4,52852
+France,2021,Bus,115166,Europe,France City 2,63.8,63.4,341,0.91,0.19,73.3,Yes,8,Yes,8.4,86.8,59,1.22,Yes,1.76,7.0,52455
+France,2021,Train,102830,Europe,France City 2,68.4,81.5,119,2.54,1.53,83.2,Yes,6,Yes,6.6,86.3,33,1.63,No,0.99,7.3,52510
+France,2022,Metro,178336,Europe,France City 3,67.8,94.7,301,2.16,0.65,53.7,Yes,0,Yes,8.0,86.3,45,1.01,Yes,2.32,9.3,44185
+France,2022,Bus,60592,Europe,France City 3,60.3,64.9,464,1.81,0.39,99.8,Yes,0,Yes,8.6,87.5,41,1.99,No,1.5,8.4,50285
+France,2022,Train,70451,Europe,France City 3,70.5,78.1,324,1.4,0.28,98.5,Yes,0,Yes,9.2,89.6,67,0.21,No,1.83,6.2,51952
+France,2023,Metro,304996,Europe,France City 4,68.9,90.7,494,2.69,1.77,79.0,No,0,No,6.1,93.3,70,0.11,Yes,2.1,5.6,45036
+France,2023,Bus,406319,Europe,France City 4,66.2,85.9,413,1.48,0.92,52.0,No,0,No,6.8,77.8,22,1.32,No,1.29,4.1,51235
+France,2023,Train,70373,Europe,France City 4,63.3,84.4,231,2.54,1.84,80.8,No,0,No,5.7,93.9,61,0.67,No,1.27,3.2,48002
+France,2024,Metro,193303,Europe,France City 5,67.2,84.6,216,1.6,0.26,44.3,No,0,No,9.5,84.4,38,0.56,Yes,2.39,5.2,50507
+France,2024,Bus,108549,Europe,France City 5,61.2,72.6,140,1.44,0.86,41.8,No,0,No,9.2,72.2,47,0.69,Yes,1.46,8.0,48491
+France,2024,Train,409954,Europe,France City 5,68.7,70.3,251,1.66,1.39,55.5,No,0,No,7.4,71.7,64,0.59,Yes,1.59,3.8,53458
+South Korea,2015,Metro,291143,Asia,South Korea City 1,51.0,88.3,395,1.25,2.0,67.8,No,0,No,8.8,79.7,82,0.16,No,1.04,6.3,35559
+South Korea,2015,Bus,338656,Asia,South Korea City 1,54.9,88.4,68,2.37,0.87,92.1,No,0,No,7.3,92.8,38,1.95,No,0.87,9.2,35825
+South Korea,2015,Train,87517,Asia,South Korea City 1,55.6,90.3,88,1.76,1.6,83.6,No,0,No,7.8,90.5,66,0.52,No,0.84,3.0,42316
+South Korea,2016,Metro,260881,Asia,South Korea City 2,47.2,92.0,175,1.08,2.23,84.6,No,0,No,5.4,92.9,33,1.49,No,1.41,5.9,37777
+South Korea,2016,Bus,444608,Asia,South Korea City 2,48.8,77.9,222,2.75,1.58,65.5,No,0,No,8.4,85.0,57,1.55,No,1.37,9.3,39153
+South Korea,2016,Train,520282,Asia,South Korea City 2,52.3,77.6,190,1.46,0.66,60.8,No,0,No,5.6,82.8,72,1.87,No,1.78,4.8,41836
+South Korea,2017,Metro,486007,Asia,South Korea City 3,51.9,87.9,291,1.86,0.16,62.3,No,0,No,8.7,74.3,80,0.16,No,1.19,3.1,42629
+South Korea,2017,Bus,453044,Asia,South Korea City 3,51.4,82.7,269,2.77,2.19,99.3,No,0,No,8.5,79.5,55,1.76,Yes,1.68,7.5,40301
+South Korea,2017,Train,428222,Asia,South Korea City 3,49.5,84.6,175,2.06,0.15,42.4,No,0,No,8.2,82.6,59,1.1,Yes,0.88,6.5,39994
+South Korea,2018,Metro,409908,Asia,South Korea City 4,49.6,87.9,107,0.79,2.2,92.0,No,0,No,5.2,72.6,49,1.3,No,1.71,5.7,40282
+South Korea,2018,Bus,232872,Asia,South Korea City 4,54.3,91.2,197,2.85,1.37,74.7,No,0,No,6.4,76.4,28,1.32,Yes,1.44,6.1,42280
+South Korea,2018,Train,269324,Asia,South Korea City 4,53.6,71.8,366,2.07,2.35,66.3,No,0,No,6.2,87.3,83,1.66,No,0.93,4.6,36826
+South Korea,2019,Metro,201079,Asia,South Korea City 5,49.9,73.1,432,1.34,2.02,83.5,No,0,No,6.6,91.3,52,0.73,Yes,1.7,3.2,40526
+South Korea,2019,Bus,210033,Asia,South Korea City 5,50.4,63.3,410,0.85,2.5,69.2,No,0,No,5.4,99.0,71,1.49,Yes,1.05,5.6,35155
+South Korea,2019,Train,222463,Asia,South Korea City 5,53.8,80.2,472,2.49,0.94,92.4,No,0,No,9.2,97.1,33,1.1,No,1.32,3.3,37347
+South Korea,2020,Metro,147405,Asia,South Korea City 1,48.5,61.3,50,2.05,1.94,94.0,Yes,5,Yes,7.5,88.6,72,1.61,Yes,1.06,5.6,39000
+South Korea,2020,Bus,227722,Asia,South Korea City 1,54.4,76.3,436,1.83,1.06,65.3,Yes,2,Yes,6.4,82.2,78,1.98,Yes,1.35,8.2,39741
+South Korea,2020,Train,122909,Asia,South Korea City 1,49.1,79.0,397,2.73,1.25,56.6,Yes,8,Yes,6.8,88.4,60,0.48,Yes,1.61,6.6,38173
+South Korea,2021,Metro,124555,Asia,South Korea City 2,56.8,70.0,239,2.47,1.61,75.5,Yes,5,Yes,7.0,92.8,87,1.99,No,1.38,5.2,39583
+South Korea,2021,Bus,273731,Asia,South Korea City 2,48.9,80.7,240,0.88,2.2,94.7,Yes,6,Yes,7.7,73.4,87,0.27,Yes,0.9,5.5,40089
+South Korea,2021,Train,223864,Asia,South Korea City 2,49.7,61.1,418,1.28,2.46,52.6,Yes,2,Yes,7.3,81.9,27,0.1,No,1.56,5.8,35261
+South Korea,2022,Metro,135017,Asia,South Korea City 3,53.5,61.3,458,1.12,1.94,77.4,Yes,0,Yes,9.1,94.4,21,0.18,Yes,1.23,6.8,35649
+South Korea,2022,Bus,161633,Asia,South Korea City 3,56.9,88.8,361,2.36,1.1,77.9,Yes,0,Yes,7.2,81.1,60,0.75,No,1.31,6.6,42520
+South Korea,2022,Train,200184,Asia,South Korea City 3,56.6,72.6,466,0.58,1.11,84.0,Yes,0,Yes,9.5,86.6,74,1.3,No,1.7,9.9,40070
+South Korea,2023,Metro,416777,Asia,South Korea City 4,53.3,64.4,471,1.92,1.87,47.9,No,0,No,8.8,87.0,35,0.23,Yes,1.97,6.2,40238
+South Korea,2023,Bus,211547,Asia,South Korea City 4,47.5,78.3,166,2.41,0.67,82.9,No,0,No,5.9,75.3,81,0.11,Yes,1.94,7.0,36315
+South Korea,2023,Train,138650,Asia,South Korea City 4,55.5,86.9,183,2.69,0.37,94.5,No,0,No,9.2,80.5,67,1.88,Yes,2.23,9.3,36502
+South Korea,2024,Metro,334467,Asia,South Korea City 5,50.9,67.6,107,1.36,0.95,50.8,No,0,No,5.5,79.7,49,1.66,No,2.08,4.5,36587
+South Korea,2024,Bus,405909,Asia,South Korea City 5,48.3,81.8,93,2.55,0.79,54.3,No,0,No,8.7,70.8,31,1.64,Yes,2.31,5.9,41532
+South Korea,2024,Train,358817,Asia,South Korea City 5,47.9,63.0,222,0.78,0.81,98.3,No,0,No,6.7,70.7,54,1.78,Yes,1.33,4.5,40469
